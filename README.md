@@ -1,4 +1,4 @@
-#JPEGQUANT
+# JPEGQUANT
 
 [JPEG QUANT](https://github.com/ImageProcessing-ElectronicPublications/jpegquant) is JPEG DCT coefficients access in C.
 
@@ -21,5 +21,3 @@
 ![lena.q100.jq20.butteraugli.jpg](images/lena.q100.jq20.butteraugli.jpg)
 
 ![lena.q100.jq20.jpg](images/lena.q100.jq20.jpg)
-
-
